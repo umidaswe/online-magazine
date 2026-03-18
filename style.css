@@ -4,3 +4,9 @@ h2{
     font-weight: 700;
     text-align: center;
 }
+p{
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: 500;
+    
+}
